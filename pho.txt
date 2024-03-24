@@ -10,8 +10,11 @@ step4
 making changes in feature-branch and pushing the changes
 
 
+<<<<<<< HEAD
 making changes in feature-branch and putting in stash and the switching in main making some changes and pushing in remote repo and comming back to feature-branch and applying stash .
 
+
+=========
 
 making changes in main after putting the branch in stash
 
