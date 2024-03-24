@@ -12,4 +12,6 @@ making changes in feature-branch and pushing the changes
 
 making changes in main after putting the branch in stash
 
-MAKING CHANGES FIRST IN REMOTE REPO AND CLONING THE CHANGES IN THE LOCAL REPO
+MAKING CHANGES FIRST IN REMOTE REPO AND CLONING THE CHANGES IN THE LOCAL REPO  
+
+making changes in the remote repo and the fetch
