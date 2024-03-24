@@ -8,3 +8,6 @@ step4
 
 
 making changes in feature-branch and pushing the changes
+
+
+making changes in main after putting the branch in stash
